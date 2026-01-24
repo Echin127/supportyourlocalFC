@@ -14,6 +14,15 @@ Extracting location data from Wikidata. This was done because no other preexisti
 
 Added the csv file and made Voronoi polygons - Each region is bounded by a line equidistant to another point.
 
-Added population raster data and calculated population for each polygon
+Added population raster data and calculated population for each polygon. 'Boundary Data' csv file has the population data. 
 
 Used qgis2web to publish.
+
+So which club is the biggest?
+
+1. Leeds
+2. Leicester
+3. Cardiff
+4. Tottenham
+5. Norwich
+
