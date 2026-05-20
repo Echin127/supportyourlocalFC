@@ -1,7 +1,7 @@
 # supportyourlocalFC
 Map of the United Kingdom and Ireland divided up by distance to the nearest football club.
 
-Web map link: https://supportyourlocalfc.netlify.app
+Web map link: https://echin127.github.io/supportyourlocalFC/ 
 
 Seeing as some football fans have an obsession with the 'Support your local club' attitude, I decided to see which club would be the biggest if everyone supported their local club.
 Map shows clubs from: English Tiers 1-6, Scottish Tiers 1 and 2, Northern Ireland Tier 1 and Ireland Tier 1.
